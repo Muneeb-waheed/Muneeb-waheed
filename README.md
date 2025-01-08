@@ -1,11 +1,11 @@
 # Hi there, I'm Muhammad Muneeb 👋
 
 ## 👨‍💻 About Me
-I'm a **MERN Stack Developer** with **1.8 years of experience** in building scalable web applications. I specialize in **MERN Stack Development**. I am passionate about creating responsive and dynamic user experiences with clean, maintainable code.
+Results driven **MERN Stack Developer** with **1.8 years of experience** in building scalable web applications. I specialize in **MERN Stack Development**. I am passionate about creating responsive and dynamic user experiences with clean, maintainable code.
 
-- 🔭 I’m currently working on **full-stack applications** with MERN stack.
-- 🌱 I’m always learning and improving my skills.
-- 💬 Ask me about **React**, **Next.js**, **Node.js**, **Nest.js**, **Express.Js**, **MongoDB**, **PostgreSQL**, **MySQL**, and **JavaScript**.
+- 🔭 With extensive experience in building **scalable web applications**, I’m currently working on **full-stack applications** with MERN stack.
+- 🌱 I’m always learning and improving my skills with latest industry trends and cutting edge technologies.
+- 💬 Ask me about **React.js**, **Next.js**, **Node.js**, **Nest.js**, **Express.Js**, **MongoDB**, **PostgreSQL**, **MySQL**, and **JavaScript**.
 - ⚡ Fun fact: I love coding, coffee, and exploring new technologies!
 
 ## 🚀 Technologies & Tools
