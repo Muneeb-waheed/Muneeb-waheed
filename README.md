@@ -22,9 +22,11 @@ Results driven **MERN Stack Developer** with **1.8 years of experience** in buil
 
 **Backend:**
 - Node.js
+- Express.js
 - Nest.js
 - Python
-- Express.js
+- Core php
+
 - TypeORM, Mongooose ODM
 - REST APIs
 
